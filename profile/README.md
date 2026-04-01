@@ -2,4 +2,4 @@
 
 Esta es la documentacion inicial de Bapex Srl.
 
-[Ve al proyecto Proncipal](https://github.com/orgs/bapexsrl/projects/1)
+[Ve al proyecto Principal](https://github.com/orgs/bapexsrl/projects/1)
